@@ -17,10 +17,14 @@ h1 {
 }
 
 p {
-    font: palatino;
     color: #484131;
     font-size: 2vw;
     font-weight: 900;
     margin: 5%;
     text-align: center;
+}
+
+.frase {
+    /*visibility: hidden;*/
+    color:aqua
 }
